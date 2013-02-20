@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files-to-patch-windows</file>
+        <file>files-to-patch-windows-qt5</file>
+    </qresource>
+</RCC>
